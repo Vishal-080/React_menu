@@ -1,0 +1,23 @@
+body{
+  text-align:center;
+}
+#container{
+  width:400px;
+  margin: auto;
+  display: flex;
+}
+#left,#right{
+  width:45%;
+  margin: auto; 
+}
+
+
+.Button{
+  width:150px;
+  border-radius:12px;
+  height:30px;
+  color:white;
+  border-color: transparent;
+  margin: 10px 0;
+}
+
